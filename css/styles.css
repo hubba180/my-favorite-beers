@@ -11,3 +11,11 @@ body {
   color: brown;
 }
 
+.font-styler {
+  font-weight: 300;
+  font-style: italic;
+}
+
+img {
+  width: 100%;
+}
