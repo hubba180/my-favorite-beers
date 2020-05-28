@@ -37,3 +37,11 @@ p {
 .sidebar-3{
   background-color: crimson;
 }
+
+div {
+  background-color: darkblue;
+}
+
+div li {
+  background-color: darkcyan;
+}
