@@ -25,3 +25,15 @@ p {
   margin-bottom: 20px;
   border: 2px solid black;
 }
+
+.sidebar-1{
+  background-color: coral;
+}
+
+.sidebar-2{
+  background-color: cornflowerblue;
+}
+
+.sidebar-3{
+  background-color: crimson;
+}
